@@ -1,1 +1,24 @@
+프로젝트 S/W 솔루션 설치 목록 기록
+항목 - 스펙 - 계획완료일 기록 - (특이사항)
 
+OS - Redhat - 23/12/1
+WEB - Apache - 23/12/1
+WAS - Wildfly - 23/12/1
+암호화 솔루션 - CubeOne - 23/12/1  - 서버 Aging Rack Mount 등 작업 후 성능 검토와 안정화 작업 등으로 H/W 입고 후 1주일 소요 예정
+VMWARE(CMP) - VMware vRealize Operations - 23/11/20 ~ 23/12/22 - 전체 4MM, 구성 1달, Dev 우선 설치
+
+개발프레임워크 - U.Stra Framework - 23/10/20, 23/11/30
+
+통합회원 운영 DBMS - Oracle Ent / RAC - 23/11/24
+통합회원 개발1 DBMS - Oracle Ent - 23/11/24
+통합회원 개발2 DBMS - Oracle Ent - 23/11/24
+분석계 운영 DBMS - AgentSQL(PostgreSQL) - 23/11/24
+분석계 개발 DBMS - AgentSQL(PostgreSQL) - 23/11/24
+백업SW - Veeam Data Platform - 23/11/24    - 서버 OS 설치 완료 후 진행되며 구축과 안정화 진행으로 1주일 소요
+
+APM(고객통합+분석시스템) - Jennifer - 23/12/26 ~ 23/12/29 - 24/6/4 완료, 구성 1주
+DPM(고객통합+분석시스템) - Sherpa - 23/12/4 ~ 23/12/8 - 24/6/14 완료, 구성 1주
+데이터변환솔루션 - IBM DataStage - 23/12/26 ~ 23/12/29 - SAP Full License 필요, 구성 1주
+인터페이스(EAI) - IBM MQ/MB - 23/12/11 ~ 24/1/12 - 24/6/7 완료, 구성 1달
+API G/W 솔루션 - IBM API G/W - 23/12/25 ~ 24/1/5 - 24/5/17, 구성 1달
+대쉬보드 차트툴 - 빅스파이브 - 23/10/30 ~ 23/11/3 - 24/3/26, 구성 1주
