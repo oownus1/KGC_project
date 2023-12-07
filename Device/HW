@@ -1,1 +1,21 @@
+항목 - 스펙 - 입고 예정일 및 완료일 기록
+해당 일정은 Guarantee 일정으로 당겨질 수도 있고 늦어지는 경우가 있었음. 우선 진행이 필요한 일정은 대체 서버와 스위치 구성해서 환경 구축해서 대응했음.
+
+서버(HCI) DMZ - VxRail VP-760 - 23/11/15
+서버(HCI) Trus/Dev - VxRail VP-760 - 23/11/9
+
+DB서버(통합회원) - PowerEdge R760 - 23/11/9
+DB서버(분석) - PowerEdge R760 - 23/11/9
+통합 개발 1 DB서버 - PowerEdge R760 - 23/11/9
+통합 개발 2 DB서버 - PowerEdge R760 - 23/11/9
+분석 개발DB서버 - PowerEdge R760 - 23/11/9
+통합 DB 스토리지 - PowerStore 500T - 23/11/9
+
+백업서버 - PowerEdge R760xs - 23/11/9
+SAN Switch - Brocade G630 - 23/11/9
+백엔드 스위치 - S4112F
+백본 연결 L3 스위치 - Nexus 9300(N9K-C93180YC-FX3) - 23/11/24
+백본 연결 L2 스위치 - Nexus 9300(N9K-C93180YC-FX3) - 23/11/24
+백업망 백본스위치 - Catalyst 9410R - 23/11/24
+DB RAC용 L2 Switch - Catalyst 9200L-24T-4G - 23/11/24
 
